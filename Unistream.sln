@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnistreamTest2.Host", "UnistreamTest2.Host\UnistreamTest2.Host.csproj", "{59FDDFF6-123C-4B68-9E29-0FE85AB0F628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnistreamTest2.Dal", "UnistreamTest2.Dal\UnistreamTest2.Dal.csproj", "{32FEE082-4C68-4B1D-96D3-B9534D91EB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnistreamTest2.Application", "UnistreamTest2.Application\UnistreamTest2.Application.csproj", "{148B8757-56DF-4D52-AF3A-9FEA6C1C9E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FDDFF6-123C-4B68-9E29-0FE85AB0F628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FDDFF6-123C-4B68-9E29-0FE85AB0F628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FDDFF6-123C-4B68-9E29-0FE85AB0F628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FDDFF6-123C-4B68-9E29-0FE85AB0F628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FEE082-4C68-4B1D-96D3-B9534D91EB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FEE082-4C68-4B1D-96D3-B9534D91EB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FEE082-4C68-4B1D-96D3-B9534D91EB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FEE082-4C68-4B1D-96D3-B9534D91EB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148B8757-56DF-4D52-AF3A-9FEA6C1C9E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148B8757-56DF-4D52-AF3A-9FEA6C1C9E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148B8757-56DF-4D52-AF3A-9FEA6C1C9E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148B8757-56DF-4D52-AF3A-9FEA6C1C9E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
