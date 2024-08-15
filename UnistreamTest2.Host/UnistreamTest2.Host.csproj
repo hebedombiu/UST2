@@ -13,7 +13,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\UnistreamTest2.Application\UnistreamTest2.Application.csproj" />
-      <ProjectReference Include="..\UnistreamTest2.Dal\UnistreamTest2.Dal.csproj" />
     </ItemGroup>
 
 </Project>
